@@ -12,7 +12,7 @@ function SignInComponent( ) {
                         </div>
                     </div>
                     <div className="pt-2">
-                        <LabelledInput label="Username" placeholder="pradeep@1234" />
+                        <LabelledInput label="Username" placeholder="xyz@123" />
                         <LabelledInput label="Password" type={"password"} placeholder="123456" />
                        <Button name= "Sign in" />
                     </div>
